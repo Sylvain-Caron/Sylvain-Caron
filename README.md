@@ -6,14 +6,12 @@ Developer in **Python** • **Odoo/Django** • **JavaScript/OWL/React/React Nat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Skills
+## 💻 **Tech-Stack**
 
-**Back-end:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-9440F5?style=for-the-badge&logo=odoo&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Front-end:**  
+ 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![OWL (Odoo)](https://img.shields.io/badge/OWL-5E60CE?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
